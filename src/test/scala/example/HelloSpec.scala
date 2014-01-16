@@ -1,4 +1,7 @@
+package example
+
 import org.scalatest._
+import example.Hello
 
 class HelloSpec extends FlatSpec with Matchers {
 
