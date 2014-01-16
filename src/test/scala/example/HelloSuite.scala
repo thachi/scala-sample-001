@@ -1,7 +1,6 @@
 package example
 
 import org.scalatest.FunSuite
-import example.Hello
 
 class HelloSuite extends FunSuite {
 
